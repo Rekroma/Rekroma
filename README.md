@@ -1,4 +1,6 @@
 # 💫 About Me:
+Unsuspecting victim who got dragged in the dark depths of coding in 2024.
+If you want to join me on my coding journey, add me on discord :)
 "You are like a git conflict in human form"<br>~ ChatGPT
 
 
