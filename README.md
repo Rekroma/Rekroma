@@ -2,13 +2,13 @@
 Unsuspecting victim who got dragged in the dark depths of coding in 2024. <br>
 If you want to join me on my coding journey, add me on discord :) <br>
 "You are like a git conflict in human form"<br>~ ChatGPT
-
+<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rekroma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rekromaaa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Rekroma) 
+<br>
 
 ## 💻 Tech Stack:
-
 | Skill | Level |
 |-------|-------|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |  ★ |
@@ -21,14 +21,19 @@ If you want to join me on my coding journey, add me on discord :) <br>
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |  ★ ★ ★  |
 | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |  ★ ★ ★ |
 
+## ⚡ Codewars Stats:
+![Codewars](https://github.r2v.ch/codewars?user=Rekroma&theme=gradient)
+<br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rekroma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekroma&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rekroma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rekroma&icon=5&color=0)](https://visitcount.itsvg.in)
