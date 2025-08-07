@@ -25,6 +25,10 @@ If you want to join me on my coding journey, add me on discord :) <br>
 ![Codewars](https://github.r2v.ch/codewars?user=Rekroma&theme=gradient)
 <br>
 
+## ⚡Leetcode Stats:
+![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/rekroma?theme=dark&bgColor=282828)
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rekroma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=dark&hide_border=true)<br/>
