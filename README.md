@@ -25,21 +25,15 @@ If you want to join me on my coding journey, add me on discord :) <br>
 ![Codewars](https://github.r2v.ch/codewars?user=Rekroma&theme=gradient)
 <br>
 
-## ⚡Leetcode Stats:
-![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/rekroma?theme=dark&bgColor=282828)
-
+## ✨ Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rekroma?theme=unicorn&font=Red%20Hat%20Mono&ext=heatmap)
+<br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rekroma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekroma&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rekroma&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekroma&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rekroma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<br>
-
----
-[![](https://visitcount.itsvg.in/api?id=Rekroma&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
