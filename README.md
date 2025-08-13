@@ -29,6 +29,9 @@ If you want to join me on my coding journey, add me on discord :) <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rekroma?theme=unicorn&font=Red%20Hat%20Mono)
 <br>
 
+## GeeksForGeeks Stats:
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/user_kbidp2mmrfg)](https://www.geeksforgeeks.org/user/user_kbidp2mmrfg/)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rekroma&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=radical&hide_border=true)<br/>
