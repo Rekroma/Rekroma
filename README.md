@@ -26,7 +26,7 @@ If you want to join me on my coding journey, add me on discord :) <br>
 <br>
 
 ## ✨ Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rekroma?theme=unicorn&font=Red%20Hat%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rekroma?theme=unicorn&font=Red%20Hat%20Mono)
 <br>
 
 ## 📊 GitHub Stats:
