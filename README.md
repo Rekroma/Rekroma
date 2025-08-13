@@ -22,11 +22,15 @@ If you want to join me on my coding journey, add me on discord :) <br>
 | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |  ★ ★ ★ |
 
 ## ⚡ Codewars Stats:
-![Codewars](https://github.r2v.ch/codewars?user=Rekroma&theme=gradient)
+![Codewars Stats](https://github.r2v.ch/codewars?user=Rekroma&theme=gradient)
 <br>
 
 ## ✨ Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rekroma?theme=unicorn&font=Red%20Hat%20Mono)
+<br>
+
+## 📗 GeeksForGeeks Stats:
+[![GeeksForGeeks Stats](https://gfgstatscard.vercel.app/rekroma)](https://www.geeksforgeeks.org/user/rekroma/)
 <br>
 
 ## 📊 GitHub Stats:
