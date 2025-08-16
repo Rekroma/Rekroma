@@ -10,7 +10,7 @@ If you want to join me on my coding journey, add me on discord :) <br>
 <br>
 
 ## 💻 Tech Stack:
-| Skill | Level |
+| Skill | Level (of 5)|
 |-------|-------|
 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) |  ★ ★  |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |  ★ |
