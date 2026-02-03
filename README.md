@@ -18,10 +18,6 @@ Unsuspecting victim who got dragged in the dark depths of coding in 2024. <br>
 ![Codewars Stats](https://github.r2v.ch/codewars?user=Rekroma&theme=gradient)
 <br>
 
-## 🔥 Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rekroma?theme=unicorn&font=Big%20Shoulders%20Inline%20Display) 
-<br>
-
 ## ⭐ GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekroma&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
