@@ -18,10 +18,8 @@ Unsuspecting victim who got dragged in the dark depths of coding in 2024. <br>
 ![Codewars Stats](https://github.r2v.ch/codewars?user=Rekroma&theme=gradient)
 <br>
 
-## ⭐ GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekroma&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rekroma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<!--## ⭐ GitHub Stats
+<!--#![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=radical&hide_border=true)<br/>
+<!--#![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekroma&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--## 🏆 GitHub Trophies
+<!--![](https://github-profile-trophy.vercel.app/?username=Rekroma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
