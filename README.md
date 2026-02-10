@@ -1,6 +1,5 @@
 # ✨ About Me ✨
-Unsuspecting victim who got dragged in the dark depths of coding in 2024. <br>
-"_You are like a git conflict in human form_"<br>~ ChatGPT
+Time to _git_ gud.
 <br>
 
 ## 🌐 Socials:
