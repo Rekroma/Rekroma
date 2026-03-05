@@ -1,4 +1,4 @@
-# ✨ About Me ✨
+# About Me 
 Time to _git_ gud.
 <br>
 
@@ -8,17 +8,10 @@ Time to _git_ gud.
 <br>
 
 ## 💻 Tech Stack:
-| Skill | Level |
-|-------|-------|
-| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) |  ★ ★  |
-| ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) |  ★ ★ |
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) <br>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 ## ⚡ Codewars Stats:
 ![Codewars Stats](https://github.r2v.ch/codewars?user=Rekroma&theme=gradient)
 <br>
-
-<!--## ⭐ GitHub Stats
-<!--#![](https://nirzak-streak-stats.vercel.app/?user=Rekroma&theme=radical&hide_border=true)<br/>
-<!--#![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekroma&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<!--## 🏆 GitHub Trophies
-<!--![](https://github-profile-trophy.vercel.app/?username=Rekroma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
