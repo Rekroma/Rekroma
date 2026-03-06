@@ -4,7 +4,6 @@ Time to _git_ gud.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rekroma)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Rekroma)
 <br>
 
 ## 💻 Tech Stack:
